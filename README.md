@@ -2,7 +2,7 @@
 
 # level one ! i think :)
 
-### 1. Free Stuff
+## 1. Free Stuff
 
 **Learn by doing/coding (html,CSS,JS) :**
 
