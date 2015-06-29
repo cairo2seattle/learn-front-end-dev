@@ -8,7 +8,7 @@
 1. Code Academy
 www.codecademy.com
 2. Dash by General Assembly
-www.dash.generalassemb.ly
+dash.generalassemb.ly
 
 **"References" :**
 
@@ -16,7 +16,7 @@ www.dash.generalassemb.ly
 1. Mozzila: Web technology for developers (everything you need to know about HTML,CSS,JS)
 www.developer.mozilla.org/en-US/docs/Web
 2. Learn to Code HTML & CSS
-www.learn.shayhowe.com/html-css/
+learn.shayhowe.com/html-css/
 3. Eloquent JavaScript (free book)
 www.eloquentjavascript.net/
 
@@ -26,7 +26,7 @@ www.eloquentjavascript.net/
 1. Learn CSS layout
 www.learnlayout.com/index.html
 2. Introduction to CSS selectors
-www.creativebloq.com/css3/introduction-css-selectors-61515320?ref=webdesignernews.com
+www.creativebloq.com/css3/introduction-css-selectors-61515320
 
 ## 2. Paid Stuff
 1. JavaScript and JQuery: Interactive Front-End Web Development (book)
@@ -34,4 +34,4 @@ www.creativebloq.com/css3/introduction-css-selectors-61515320?ref=webdesignernew
 
 ## 3. Bonus
 1. A huge List that contains a hundreds of programming books (most of is free)
-https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+github.com/vhf/free-programming-books/blob/master/free-programming-books.md
