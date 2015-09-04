@@ -33,4 +33,4 @@ www.creativebloq.com/css3/introduction-css-selectors-61515320
 2. Tree House, On demand coding lessons www.teamtreehouse.com
 
 ## 3. Bonus
-1. A huge List that contains a hundreds of programming books (most of is free) [link](github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+1. A huge List that contains a hundreds of programming books (most of is free) [link](github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
