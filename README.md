@@ -3,13 +3,15 @@
 ## 1. Free Stuff
 
 **Learn by doing/coding (html,CSS,JS) :**
+
 ----------
 1. Code Academy
-www.codecademy.com
+[link](https://www.codecademy.com/)
 2. Dash by General Assembly
 [link](https://dash.generalassemb.ly/)
 
 **"References" :**
+
 ----------
 1. Mozzila: Web technology for developers (everything you need to know about HTML,CSS,JS)
 [link](https://developer.mozilla.org/en-US/)
@@ -19,6 +21,7 @@ www.codecademy.com
 [link](http://eloquentjavascript.net/)
 
 **Articles :**
+
 ----------
 1. Learn CSS layout
 [link](http://www.learnlayout.com/index.html)
@@ -26,13 +29,16 @@ www.codecademy.com
 [link](http://www.creativebloq.com/css3/introduction-css-selectors-61515320)
 
 ## 2. Paid Stuff
+
 **Reading :**
+
 ----------
 1. HTML and CSS: Design and Build Websites by  Jon Duckett (book)
 2. JavaScript and JQuery: Interactive Front-End Web Development by  Jon Duckett (book)
 you can buy on amazon.com [link](https://www.amazon.com/) or find on safari books online [link](https://www.safaribooksonline.com/)
 
 **Video :**
+
 ----------
 2. Tree House, On demand coding lessons 
 [link](https://teamtreehouse.com/)
